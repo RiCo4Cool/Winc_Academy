@@ -16,3 +16,12 @@ main h1 {
   border-color: darkgray;
   margin: 20px;
 }
+
+main h2 {
+  margin: 0 auto;
+  width: 600px;
+}
+
+.linklist {
+  display: inline;
+}
