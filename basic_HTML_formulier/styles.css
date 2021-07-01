@@ -1,0 +1,36 @@
+main {
+  border-style: solid;
+  border-color: gray;
+  margin: 20px;
+  padding-top: 5px;
+  padding-bottom: 5px;
+  padding-left: 10px;
+  padding-right: 10px;
+  /*shorthand notatie */
+  padding: 5px 10px;
+}
+
+/*geef je <header> een mooie gekleurde border */
+main h1 {
+  border-style: solid;
+  border-color: darkgray;
+  margin: 20px;
+}
+
+main h2 {
+  margin: 0 auto;
+  width: 100%;
+}
+
+.linklist {
+  display: inline;
+}
+
+@media (min-width: 1024px) {
+  main {
+    background-color: yellow;
+    color: grey;
+    font-size: small;
+    line-height: 2;
+  }
+}
