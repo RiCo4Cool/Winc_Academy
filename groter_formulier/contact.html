@@ -1,0 +1,45 @@
+<!DOCTYPE html>
+<html>
+
+<body>
+    <header>
+
+        <head>
+            <!-- <link href="styles.css" rel="stylesheet" type="text/css"> -->
+            <!-- hier zet je de code in de head tags -->
+            <title> Stuur je recept! </title>
+        </head>
+    </header>
+
+
+    <!-- hier zet je de code in de body tags-->
+    <main>
+        <form name="contact" method="POST" data-netlify="true">
+            <p><label>Naam: <input type="text" name="Name" /> </label></p>
+            <p><label>Email: <input type="email" name="email" /> </label></p>
+            <!-- https://developer.mozilla.org/en-US/docs/Web/HTML/Element/input/tel -->
+            <p><label>Telefoonnumer: <input type="tel" name="phone" /> </label></p>
+            <p><label>Leeftijd: <input type="number" name="age" min="0" max="120" /> </label></p>
+            <p><label>Geboortedatum: <input type="date" name="birth" /> </label></p>
+            <p>
+                <label>Gender: <input type="radio" name="gender" value="man" />Man</label>
+                <label><input type="radio" name="gender" value="vrouw" />Vrouw</label>
+            </p>
+            <p><label><button type="submit">Verzenden</button></label></p>
+        </form>
+
+    </main>
+
+    <footer>
+        <nav>
+            <p>
+            <ul>
+                <li class="linklist"><a href="index.html">Terug naar homepage</a>
+            </ul>
+            </p>
+        </nav>
+    </footer>
+</body>
+
+
+</html>
