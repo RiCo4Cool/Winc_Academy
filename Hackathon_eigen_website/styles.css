@@ -1,3 +1,27 @@
 body {
   background-color: cornsilk;
+  color: red;
+  text-align: center;
+  font-family: Arial, Helvetica, sans-serif;
+}
+
+.lightning {
+  text-align: center;
+}
+
+body h1 {
+  font-size: xx-large;
+}
+
+.row {
+  display: flex;
+}
+
+.column {
+  width: 20%;
+}
+
+body div div img {
+  width: 70%;
+  border-radius: 10px;
 }
