@@ -35,3 +35,8 @@ body div div img {
 .footerlink {
   margin: 10px;
 }
+
+form {
+  color: black;
+  text-align: left;
+}
