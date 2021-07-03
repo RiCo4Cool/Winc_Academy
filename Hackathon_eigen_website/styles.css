@@ -40,3 +40,32 @@ form {
   color: black;
   text-align: left;
 }
+
+@media (min-width: 700px) {
+  body {
+    background-image: url("./img/background.svg");
+    background-repeat: no-repeat;
+    text-align: right;
+  }
+  body .lightning {
+    text-align: right;
+  }
+  body .title {
+    display: inline;
+    background-color: cornsilk;
+  }
+  body .row {
+    background-color: cornsilk;
+  }
+  body .detail_header {
+    float: right;
+  }
+  body main {
+    float: right;
+    display: inline;
+    background-color: cornsilk;
+  }
+  .form {
+    background-image: url();
+  }
+}
