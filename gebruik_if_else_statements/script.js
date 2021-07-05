@@ -13,3 +13,8 @@ if (isFemale == true) {
 }
 
 const driveStatus = "bob";
+if (driveStatus == "bob") {
+  console.log("U mag rijden!");
+} else {
+  console.log("Bestel een taxi!");
+}
