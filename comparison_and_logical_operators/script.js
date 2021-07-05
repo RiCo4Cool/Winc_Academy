@@ -1,5 +1,6 @@
 const age = 19;
 const firstName = "Bram";
+const totalAmount = 160;
 
 if (age >= 18) {
   console.log("U mag naar binnen!");
@@ -31,4 +32,12 @@ if (firstName === "Sarah" || firstName === "Bram") {
   console.log("Haal snel je gratis biertje!");
 } else {
   console.log("Vergeet niet je biertje te betalen!");
+}
+
+if (totalAmount > 25 && totalAmount <= 50) {
+  console.log("Haal je gratis bitterballen!");
+} else if (totalAmount > 50 && totalAmount <= 100) {
+  console.log("Haal je gratis porties nachos!");
+} else if (totalAmount > 100) {
+  console.log("Haal je gratis flesje champagne!");
 }
