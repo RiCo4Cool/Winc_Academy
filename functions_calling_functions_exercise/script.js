@@ -15,3 +15,17 @@ function greeting(age) {
 }
 
 console.log(greeting(16));
+
+/* vat exercise 1 */
+function vat(baseprice, vatpercentage) {
+  const vat = baseprice * (vatpercentage / 100);
+  return vat;
+}
+
+function priceIncludingVat(baseprice, vatpercentage) {
+  return baseprice + vat(baseprice, vatpercentage);
+}
+
+console.log(priceIncludingVat(1000, 21));
+
+/* vat exercise 2 */
