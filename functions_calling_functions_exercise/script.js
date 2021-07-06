@@ -34,7 +34,9 @@ function vat2(priceIncludingVat, vatpercentage) {
 }
 
 function basePrice(priceIncludingVat, vatpercentage) {
-  return [vat2(priceIncludingVat, vatpercentage), vatpercentage];
+  const vatAmount =
+    priceIncludingVat * (vatpercentage / 100 / (1 + vatpercentage / 100));
+  return [vat2(priceIncludingVat, vatpercentage), vatAmount];
 }
 
 console.log(basePrice(2.18, 9));
