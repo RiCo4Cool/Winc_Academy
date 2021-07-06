@@ -6,4 +6,12 @@ function isAdult(age) {
   }
 }
 
-console.log(isAdult(19));
+function greeting(age) {
+  if (isAdult(age) == true) {
+    return "Hello There";
+  } else {
+    return "Hey kiddo";
+  }
+}
+
+console.log(greeting(16));
