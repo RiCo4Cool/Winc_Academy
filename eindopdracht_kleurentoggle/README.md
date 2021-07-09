@@ -42,18 +42,18 @@ Zo komt het eindresultaat er (ongeveer) uit te zien. Afhankelijk van hoeveel bon
 
 ## Tips & Tricks
 
-Er zijn onwijs veel voorbeelden van toggle-menu's te vinden online. Doe eens een google search voor een toggle menu in vanilla JavaScript of een zoekactie op codepen.io. Wie weet vind je daar inspiratie...
+Er zijn onwijs veel voorbeelden van toggle-menu's te vinden online. Doe eens een google search voor een toggle menu in vanilla JavaScript of een zoekactie op [codepen.io](http://codepen.io/). Wie weet vind je daar inspiratie...
 
 Je gaat luisteren naar browser events van de gebruiker en daar vervolgens een actie op doen. Hoe zat het ook alweer met events?
 
-DOM: Browser Events
+[DOM: Browser Events](https://www.notion.so/DOM-Browser-Events-1060d28629a541f6a39ad2e385b1edbf)
 
-JS: Adding and removing classes on Browser Event
+[JS: Adding and removing classes on Browser Event](https://www.notion.so/JS-Adding-and-removing-classes-on-Browser-Event-58dfc8eece7849fc800589b00bdeec7f)
 
 Wat inspiratie die wij al voor je hebben gevonden
 
-In deze tutorials zie je hoe MMTuts een toggle menu maakt met JavaScript & HTML / CSS. Voordat je begint met de videos! Lees eerst onze vereisten eerst goed door (die zijn namelijk ietwat anders dan het menu in de tutorial)
+In deze tutorials zie je hoe MMTuts een toggle menu maakt met JavaScript & HTML / CSS. Voordat je begint met de videos! **Lees eerst onze vereisten eerst goed door** (die zijn namelijk ietwat anders dan het menu in de tutorial)
 
-19: How to Create a Toggle Menu | Part 1 | HTML & CSS Setup | JavaScript Menu | JavaScript Tutorial
+[19: How to Create a Toggle Menu | Part 1 | HTML & CSS Setup | JavaScript Menu | JavaScript Tutorial](https://www.youtube.com/watch?v=yytscwxx1pk&list=PL0eyrZgxdwhxNGMWROnaY35NLyEjTqcgB&index=19)
 
-20: How to Create a Toggle Menu | Part 2 | Create JavaScript | JavaScript Menu | JavaScript Tutorial
+[20: How to Create a Toggle Menu | Part 2 | Create JavaScript | JavaScript Menu | JavaScript Tutorial](https://www.youtube.com/watch?v=urol_SD1wz4&list=PL0eyrZgxdwhxNGMWROnaY35NLyEjTqcgB&index=20)
