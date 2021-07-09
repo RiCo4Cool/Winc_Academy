@@ -21,7 +21,7 @@ Zorg dat jouw website de volgende eigenschappen heeft, meer mag natuurlijk altij
 - Gebruik CSS in een losse stylesheet (gebruik **geen** inline CSS = CSS in de HTML & gebruik geen CSS frameworks).
 - Gebruik minstens op 2 plekken, padding margin of borders op jouw website. Met andere woorden: laat aan ons zien dat jij het box-model onder de knie hebt.
 - Gebruik minstens 1 plaatje.
-- Gebruik minsten 2 links.
+- Gebruik minstens 2 links.
 - Gebruik MediaQueries, zodat je website er **anders** uit ziet op mobiel en op desktop.
 - Gebruik CSS-grid om een layout te maken en al je elementen op de pagina te positioneren (heb jij geen CSS Grid gehad hiervoor: dan is dit punt **niet** verplicht)
 - Gebruik flex-box om elementen te positioneren.
