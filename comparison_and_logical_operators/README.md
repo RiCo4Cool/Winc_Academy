@@ -4,12 +4,16 @@
 
 Je gaat de controle aan de deur van jouw kroeg nog wat slimmer maken. Dus kopieer de inhoud van de voorgaande opdracht en werk verder aan de kopie.
 
-Deel 1: 50% korting
+## Deel 1: 50% korting
+
 Naast de leeftijds-check van 18 jaar en ouder, wil je een nieuwe leeftijdscheck invoeren. Je wil namelijk graag wat jongere bezoekers naar je kroeg trekken en daarom heb je besloten dat kroegbezoekers tussen de 18 en 25 jaar een korting van 50% op hun biertjes krijgen.
 
-Schrijf een nieuw if statement, die checkt of leeftijd age tussen de 18 jaar of ouder en 25 jaar en jonger is.
-console.log("Je krijgt 50% korting!") als dat waar is, en iets anders als het niet waar is.
-Tip: gebruik &&
+<ul>
+<li>Schrijf een nieuw if statement, die checkt of leeftijd `age` tussen de **18 jaar of ouder** en **25 jaar en jonger** is.
+<li>console.log("Je krijgt 50% korting!") als dat waar is, en iets anders als het niet waar is.
+<li>Tip: gebruik &&
+</ul>
+
 Deel 2: Ludieke actie!
 Je kroeg bestaat 50 jaar! Daarom krijgt iedereen die "Sarah" of "Abraham" heet een gratis biertje! Oke niemand heet tegenwoordig meer Abraham, dus laten we er "Bram" van maken.
 
