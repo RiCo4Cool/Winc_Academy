@@ -83,20 +83,19 @@ const catBreeds = [{
 ]
 ```
 
-Gebruik bij elke stap een console.log("omschrijving van het object", hierjouwoplossing). Bijvoorbeeld console.log("Herkomst
-kat 1:", catBreeds[0].origin). Je mag direct de index gebruiken om een specifiek item te selecteren (bijvoorbeeld index 2 voor het derde item).
-Log de naam van het laatste kattenras.
-Naam kattensoort 3: American Bobtail
-Log de energy levels van de eerste kat.
-Energylevel kattensoort 1: 5
-Log het eerste temperament van de temperamenten van de tweede kat.
-Eerste temperament kat 2: Affectionate
-Log het laatst temperament van de temperamenten van de derde kat.
-Laatste temperament kat 3: Sensitive
-Log het favoriete voedsel van de derde kat
-Favo voedsel van kat 3: meaty things
-Naslagwerk:
+Gebruik bij elke stap een console.log("omschrijving van het object", hierjouwoplossing). Bijvoorbeeld `console.log("Herkomst kat 1:", catBreeds[0].origin)`. Je mag direct de index gebruiken om een specifiek item te selecteren (bijvoorbeeld index 2 voor het derde item).
 
-Werken met objecten
+1. Log de naam van het laatste kattenras.
+   _Naam kattensoort 3: American Bobtail_
+2. Log de energy levels van de eerste kat.
+   _Energylevel kattensoort 1: 5_
+3. Log het eerste temperament van de temperamenten van de tweede kat.
+   _Eerste temperament kat 2: Affectionate_
+4. Log het laatst temperament van de temperamenten van de derde kat.
+   _Laatste temperament kat 3: Sensitive_
+5. Log het favoriete voedsel van de derde kat
+   _Favo voedsel van kat 3: meaty things_
 
-Array
+**Naslagwerk:**
+[Werken met objecten](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Guide/working_with_objects)
+[Array](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Array)
