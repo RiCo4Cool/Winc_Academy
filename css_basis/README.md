@@ -4,18 +4,27 @@
 - We gaan direct starten met een best practice. Zoals je hebt gezien zijn er 3 manieren om CSS toe te voegen aan je HTML: inline, internal en external. We gaan het direct **external** doen. Als het goed is zit er in je gekopieerde map nog een `index.html` en waarschijnlijk een aantal extra html pagina's. **Maak een CSS file, genaamd** `styles.css`
 - Link de `index.html` aan je stylesheet `styles.css` dmv een <code>&lt;link/&gt;</code>
 
+```
   <link rel="stylesheet" type="text/css" href="styles.css">
-Deel 2: Leer de element, class en id selector gebruiken
+```
+
+# Deel 2: Leer de element, class en id selector gebruiken
+
 In de volgende sectie gaan we oefenen met verschillende soorten selectors.
 
-Element selector Maak de kleur van alle tekst op je pagina rood. Door het body element te selecteren met CSS en de property color de waarde red te geven. Dat ziet er dus zo uit.
+- Element selector Maak de kleur van alle tekst op je pagina rood. Door het `body` element te selecteren met CSS en de property `color` de waarde `red` te geven. Dat ziet er dus zo uit.
 
+```
 body {
 color: red;
 }
-Let op! CSS is erg gevoelig voor dubbele punten, punt komma's en haakjes. Gebruik dus je linters! Verwacht resultaat: alle tekst op je pagina is rood.
+```
 
-Class selector In de bovenstaande opdracht heb je een **element selector** gebruikt. Je kunt elementen ook selecteren op basis van een class. Geef 2 of meer elementen op je pagina dezelfde class genaamd "black-border". Bijvoorbeeld een <h1> element en een <p> element. Selecteer deze class vervolgens in je CSS met de **class selector** (dat doe je met een .punt): .black-border. En geef het de property border met de waarde 5px solid black.
+Let op! CSS is erg gevoelig voor dubbele punten, punt komma's en haakjes. Gebruik dus je linters! **Verwacht resultaat**: alle tekst op je pagina is rood.
+
+- **Class selector** In de bovenstaande opdracht heb je een
+  **element selector** gebruikt. Je kunt elementen ook selecteren op basis van een `class`. Geef **2 of meer elementen** op je pagina **dezelfde class** genaamd "black-border". Bijvoorbeeld een `<h1>` element en een `<p>` element. Selecteer deze class vervolgens in je CSS met de **class selector** (dat doe je met een .**punt**):
+  `.black-border`. En geef het de property `border` met de waarde `5px solid black`.
 
 .black-border {
 border: 5px solid black;
