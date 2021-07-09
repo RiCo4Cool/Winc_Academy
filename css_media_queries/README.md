@@ -45,7 +45,7 @@ Geef antwoord op de volgende vraag, terwijl je de css bekijkt: welke grootte gaa
  * bestand en kan aanroepen in je HTML om te zien hoe het eruit gaat
  * zien.
  * Je kunt het ook alleen doorlezen als je het direct begrijpt.
-*/
+ */
 /* Hiermee wordt de grootte van h1 voor het eerst aangepast van de
  * standaard browserstyle. */
   h1 {
