@@ -56,5 +56,5 @@ In de `<head>` staat informatie _\*over\*_ je pagina. In de `<body>` staat de da
 - gebruik een &lt;hr&gt;
 
 6. Open je index.html bestand in je Web Browser (Google Chrome).
-   Kom je er niet uit? Bekijk onze FAQ en filter op HTML
-   Schrijf een toepasselijke titel van je pagina in de <title> tags die in je <head> van je pagina staan.
+   [Kom je er niet uit? Bekijk onze FAQ en filter op HTML](https://faq.wincacademy.nl/)
+7. Schrijf een toepasselijke titel van je pagina in de `<title>` tags die in je `<head>` van je pagina staan.
