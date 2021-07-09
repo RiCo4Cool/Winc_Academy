@@ -35,12 +35,14 @@ If you paid 1210 (including VAT) for a computer you can do: - 1210 / 1.21 to get
 
 If you paid 2.18 (including VAT) for a loaf of bread you can do: - 2.18 / 1.09 to get the baseprice - 2.18 - (2.18 / 1.09) to get the VAT of 0.18
 
-VAT exercise 1
+## VAT exercise 1
+
 Now let's write some code. First let's write a function that takes the base price and the VAT percentage and returns the price including VAT. You must do the calculation of the VAT amount in a separate function. So, in the spirit of the lesson: we have a main function that does the main calculation and another function that we call from this main function.
 
 Make sure your functions work by testing them with different values and checking the result with a calculator or pen and paper.
 
-VAT exercise 2
+## VAT exercise 2
+
 In this exercise we're going to calculate the base price and VAT amount. The main function you make should take the amount including VAT and the VAT percentage. The return value should be an array with two elements: base price and VAT amount. Again: make sure you use two functions, where the main one calls another function to do part of the calculation.
 
 Make sure your functions work by testing them with different values and checking the result with a calculator or pen and paper.
