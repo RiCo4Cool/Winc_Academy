@@ -27,8 +27,15 @@ Remember: CSS is Cascading en werkt dus van **boven naar beneden**. Zie ons code
 
 5. Zorg voor de volgende aanpassingen op desktop groot scherm:
 
-- Verander de achtergrondkleur op desktop (`background-color`) + Neem eerst een hele opvallende kleur en sleep je browser-window heen en weer. Op deze manier zo je direct of je mediaquery werkt. Werktie? Dan kun je de kleur wat rustiger maken. + Verander de kleur van je tekst op desktop (`color`) + Verander de grootte van de tekst op desktop, (maak de tekst kleiner op een groot scherm). + Verander de regelhoogte
-  Check je begrip over CSS + MediaQueries, met dit code voorbeeld.
+- Verander de achtergrondkleur op desktop (`background-color`)
+
+  - Neem eerst een hele opvallende kleur en sleep je browser-window heen en weer. Op deze manier zo je direct of je mediaquery werkt. Werktie? Dan kun je de kleur wat rustiger maken.
+  - Verander de kleur van je tekst op desktop (`color`)
+  - Verander de grootte van de tekst op desktop, (maak de tekst kleiner op een groot scherm).
+  - Verander de regelhoogte
+
+  ## Check je begrip over CSS + MediaQueries, met dit code voorbeeld.
+
   Geef antwoord op de volgende vraag, terwijl je de css bekijkt: welke grootte gaat mijn h1 op de pagina zijn?
 
 Code voorbeeld
