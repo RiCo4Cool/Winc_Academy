@@ -42,27 +42,30 @@ Let op! CSS is erg gevoelig voor dubbele punten, punt komma's en haakjes. Gebrui
 }
 ```
 
-Verwacht resultaat: 1 element met de ID heeft een groene achtergrond.
+**Verwacht resultaat**: **1 element** met de ID heeft een groene achtergrond.
 
-Let op, beginners-regel: gebruik altijd een class-selector, tenzij je een goede reden hebt om een ID-selector te gebruiken. Deze goede redenen ga je pas tegenkomen wanneer je gaat werken met JavaScript.
+Let op, beginners-regel: gebruik **altijd** een **class-selector**, tenzij je een goede reden hebt om een **ID-selector** te gebruiken. Deze goede redenen ga je pas tegenkomen wanneer je gaat werken met **JavaScript**.
 
-Deel 3: Time for freestyling! (pun intended)
+# Deel 3: Time for freestyling! (pun intended)
+
 Nu je weet hoe de Element, Class en ID selectors werken, tijd om wat CSS toe te passen op jouw persoonlijke manier. Voel je vrij om de bovenstaande oefen-CSS ook weer te verwijderen als het niet bij jouw website past (alhoewel, wie wil er nou niet een mooie groene achtergrond? )
 
-Tip: Denk nog niet teveel na over dingen links en rechts plaatsen, de volgorde van boven naar beneden is nu goed genoeg
+**Tip**: Denk nog niet teveel na over dingen links en rechts plaatsen, de volgorde van boven naar beneden is nu goed genoeg
 
-To Do:
+**To Do**:
 
-gebruik alles wat je geleerd hebt van CSS en maak je site wat mooier
-gebruik kleur voor je tekst
-gebruik een andere grootte voor (sommige) teksten
-gebruik achtergrondkleur
-gebruik een "border"
-gebruik een mooi lettertype
-voeg styling toe aan minstens 2 pagina's, meer mag ook
-Extra Materiaal (als je comfortabel bent met CSS)
-Een uitgebreide lijst met alle CSS properties
-CSS Reference
+- gebruik alles wat je geleerd hebt van CSS en maak je site wat mooier
+- gebruik kleur voor je tekst
+- gebruik een andere grootte voor (sommige) teksten
+- gebruik achtergrondkleur
+- gebruik een "border"
+- gebruik een mooi lettertype
+- voeg styling toe aan minstens 2 pagina's, meer mag ook
+
+# Extra Materiaal (als je comfortabel bent met CSS)
+
+- Een uitgebreide lijst met alle CSS properties
+  [CSS Reference](https://www.w3schools.com/cssref/)
 
 Ik wil graag fancy borders maken:
 12 Creative and Cool Uses for the CSS Border Property
