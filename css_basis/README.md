@@ -67,8 +67,8 @@ Nu je weet hoe de Element, Class en ID selectors werken, tijd om wat CSS toe te 
 - Een uitgebreide lijst met alle CSS properties
   [CSS Reference](https://www.w3schools.com/cssref/)
 
-Ik wil graag fancy borders maken:
-12 Creative and Cool Uses for the CSS Border Property
+- Ik wil graag fancy borders maken:
+  [12 Creative and Cool Uses for the CSS Border Property](https://cssnewbie.com/12-creative-and-cool-uses-for-the-css-border-property/#.XV6ropP7RTY)
 
-Ik wil graag een chique font gebruiken van Google Fonts
-Google Fonts
+- Ik wil graag een chique font gebruiken van Google Fonts
+  [Google Fonts](https://fonts.google.com/)
