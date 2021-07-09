@@ -29,7 +29,7 @@ Sommige HTML elementen hebben "van nature" al vaste waardes die met het Box-mode
 
 **To do**:
 
-1. maak in je `&lt;nav&gt;` een lijst, dmv een `&lt;ul&gt;`
+1. maak in je &lt;nav&gt; een lijst, dmv een &lt;ul&gt;
 2. elk item `li` is een link naar een andere pagina, dus in elke `li` zit een link.
 3. Gebruik de `display` property van CSS zodat de lijst horizontaal is en niet verticaal. Lees meer over de display property en hoe je die kunt gebruiken via [deze link](https://www.w3schools.com/css/css_navbar.asp).
 4. Wanneer je de element selector hebt gebruikt, zul je zien dat alle lijstjes op je pagina nu horizontaal staan. Gebruik een class selector, om alleen de `ul` in de navigatie te selecteren.
