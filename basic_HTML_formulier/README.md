@@ -17,20 +17,20 @@ Gebruik een standaard template voor je HTML pagina. Kopieer en plak het volgende
 ```
 
 <p>Zoals je in de video's hebt kunnen zien, is er verschil tussen de
-&lt;head&gt; en de `<body>` van je pagina. Je kunt allerlei
-verschillende stukjes informatie kwijt in de `<head>` en in de `<body>`. Het allerbelangrijkste om te onthouden:</p>
+&lt;head&gt; en de &lt;body&gt; van je pagina. Je kunt allerlei
+verschillende stukjes informatie kwijt in de &lt;head&gt; en in de &lt;body&gt;. Het allerbelangrijkste om te onthouden:</p>
 
-<p>In de <head>staat informatie _over_ je pagina. In de <body> staat de daadwerkelijke pagina (hetgeen op je scherm verschijnt).</p>
+<p>In de &lt;head&gt; staat informatie _over_ je pagina. In de &lt;body&gt; staat de daadwerkelijke pagina (hetgeen op je scherm verschijnt).</p>
 
 <p>Er zijn verschillende HTML elementen waarmee je de structuur van je pagina aan kan geven. Bestudeer de volgende resource voor meer informatie over de verschillende elementen: https://www.w3schools.com/html/html_elements.asp</p>
 
 <ul>
-<li>gebruik een <h1>
-<li>gebruik een <h2>
-<li>gebruik <p>
-<li>gebruik een <hr>
+<li>gebruik een &lt;h1&gt;
+<li>gebruik een &lt;h2&gt;
+<li>gebruik &lt;p&gt;
+<li>gebruik een &lt;hr&gt;
 </ul>
 
 <p>Open je index.html bestand in je Web Browser (Google Chrome).
 Kom je er niet uit? Bekijk onze FAQ en filter op HTML
-Schrijf een toepasselijke titel van je pagina in de <title> tags die in je <head> van je pagina staan.</p>
+Schrijf een toepasselijke titel van je pagina in de &lt;title&gt; tags die in je &gt;head&gt; van je pagina staan.</p>
