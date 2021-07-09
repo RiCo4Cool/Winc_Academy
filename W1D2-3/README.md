@@ -16,9 +16,7 @@ Maak een nieuwe map met de opdracht, maar! kopieer niet de inhoud van de voorgaa
 > console.log("Hallo Winc Academy Studenten")
 
 - Voer je JavaScript programma uit door in je terminal naar de juiste map te navigeren (W1D2-3). Gebruik daarvoor je nieuw verworven `cd` en `ls` skills.
-
-      - Wanneer je je in de **juiste map** bevindt, voer het onderstaande commando uit: **_node script.js_**
-      ![Command scherm](cmd.png)
+  - Wanneer je je in de **juiste map** bevindt, voer het onderstaande commando uit: **_node script.js_** ![Command scherm](cmd.png)
 
 Let op! In dit screenshot zie je dat ik naar opdracht001 ben genavigeerd. In jouw geval gaat dat natuurlijk de map W1D2-3 zijn met daarin de file script.js.
 
