@@ -40,10 +40,10 @@ Je ziet dat er in de video nog veel gebruik gemaakt wordt van `var`. Jij weet nu
 
 ## Deel 3:
 
-Het is ook mogelijk om niet één, maar een collectie aan elementen in een variable te stoppen. Dat gaan we nu doen.
+- Het is ook mogelijk om niet één, maar een collectie aan elementen in een variable te stoppen. Dat gaan we nu doen.
+- Vul de HTML aan met een tweede div en geef beide div's een class.
 
-Vul de HTML aan met een tweede div en geef beide div's een class.
-
+```
   <!DOCTYPE html>
   <html lang="en">
   <head>
@@ -61,6 +61,7 @@ Vul de HTML aan met een tweede div en geef beide div's een class.
       </div>
   </body>
   </html>
-Selecteer beide paragrafen d.m.v. document.getElementsByClassName('vul hier de classname')
+```
 
-Stop de elementen weer in een variable en tik deze in je console. Bekijk hoe een collectie aan elementen er anders uit ziet dan 1 enkel element.
+- Selecteer beide paragrafen d.m.v. `document.getElementsByClassName('vul hier de classname')`
+- Stop de elementen weer in een variable en tik deze in je console. Bekijk hoe een collectie aan elementen er anders uit ziet dan 1 enkel element.
