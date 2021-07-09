@@ -20,16 +20,17 @@ Maak een nieuwe map met de opdracht, maar! kopieer niet de inhoud van de voorgaa
 
 Let op! In dit screenshot zie je dat ik naar opdracht001 ben genavigeerd. In jouw geval gaat dat natuurlijk de map W1D2-3 zijn met daarin de file script.js.
 
-Deel 2:
+## Deel 2:
 
 Je weet nu hoe je een JavaScript file kunt runnen op je computer. We gaan nu aan de slag met de volgende opdrachten. Run elke keer je code en check het resultaat.
 
-Bereken de uitkomst van 1230941 x 1823794 en log de uitkomst naar de console (in dit geval jouw terminal).
-Bereken de uitkomst van 637263 / 54 en log de uitkomst naar de console (in dit geval jouw terminal).
-Gebruik een regel comment in je code. Schrijf boven het 1ste sommetje "Dit is een grote som".
-Run je code met node. Zie je de uitkomst van je comment in de console? Zo ja, waarom? Zo nee, waarom niet?
-Gebruik een blok comment om de 2 voorgaande rekensommen in 1 comment te zetten. Op deze manier zet je deze regels code "uit".
-Run je code opnieuw met node. Zie je de uitkomst van de som nu nog steeds in de console? Waarom wel/niet?
+1. Bereken de uitkomst van 1230941 x 1823794 en log de uitkomst naar de console (in dit geval jouw terminal).
+2. Bereken de uitkomst van 637263 / 54 en log de uitkomst naar de console (in dit geval jouw terminal).
+3. Gebruik een **regel comment** in je code. Schrijf boven het 1ste sommetje "Dit is een grote som".
+4. Run je code met node. Zie je de uitkomst van je comment in de console? Zo ja, waarom? Zo nee, waarom niet?
+5. Gebruik een **blok comment** om de 2 voorgaande rekensommen in 1 comment te zetten. Op deze manier zet je deze regels code "uit".
+6. Run je code opnieuw met node. Zie je de uitkomst van de som nu nog steeds in de console? Waarom wel/niet?
 
-// Let op: runt JavaScript in Node? Dan is je terminal de console.
-// Runt JavaScript in je browser? Dan vind je de console in je developer tools.
+# Let op: runt JavaScript in Node? Dan is je terminal de console.
+
+# Runt JavaScript in je browser? Dan vind je de console in je developer tools.
