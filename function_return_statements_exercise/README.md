@@ -40,24 +40,27 @@ There are multiple ways to write this function. It's possible to use one or mult
 
 ---
 
-create a function with the right number of parameters
-think of good names for the function and the parameters
-inside the function write the code that decides what Brenda should say
-return Brenda's response
-call the function multiple times with different arguments
-make sure you see all of Brenda's different responses
+1. create a function with the right number of parameters
+2. think of good names for the function and the parameters
+3. inside the function write the code that decides what Brenda should say
+4. return Brenda's response
+5. call the function multiple times with different arguments
+6. make sure you see all of Brenda's different responses
+
 Now think about the categories of functions we discussed: functions that do something and functions that produce something. What kind of function is this?
 
-Calculating the average
+## Calculating the average
+
 We're going to write a function that calculates the average of five numbers.
 
-create a function with the right number of parameters
-think of good names for the function and the parameters
-inside the function calculate the average of the five numbers
-bonus: use Math.round to round the average to a whole number
-use the return keyword to return the average of the five numbers
-call the function multiple times with different arguments
-check that your function correctly calculates the average
-use console.log to display the return value of the function
-the end result of this exercise should not use console.log inside of the function
+1. create a function with the right number of parameters
+2. think of good names for the function and the parameters
+3. inside the function calculate the average of the five numbers
+4. bonus: use Math.round to round the average to a whole number
+5. use the return keyword to return the average of the five numbers
+6. call the function multiple times with different arguments
+7. check that your function correctly calculates the average
+8. use console.log to display the return value of the function
+9. the end result of this exercise should not use console.log inside of the function
+
 Now think about the categories of functions we discussed: functions that do something and functions that produce something. What kind of function is this?
