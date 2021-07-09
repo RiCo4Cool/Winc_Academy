@@ -32,7 +32,9 @@ Je gaat voor het eerst werken met objecten en arrays. In deze opdracht run je je
 
 Objecten in JavaScript kunnen worden vergeleken met objecten in het echte leven. Daarom gaan we nu een opdracht doen met een "echt" object. We hebben 3 katten-soorten voor je in een array gestopt. Hieronder vind je een array met 3 kattenrassen en hun specificaties.
 
-Array met kattenrassen
+- Array met kattenrassen
+
+```
 const catBreeds = [{
 name: "Abyssinian",
 description: "The Abyssinian is easy to care for, and a joy to have in your home. They’re affectionate cats and love both people and other animals.",
@@ -79,6 +81,8 @@ disliked_food: "canned food"
 }
 }
 ]
+```
+
 Gebruik bij elke stap een console.log("omschrijving van het object", hierjouwoplossing). Bijvoorbeeld console.log("Herkomst
 kat 1:", catBreeds[0].origin). Je mag direct de index gebruiken om een specifiek item te selecteren (bijvoorbeeld index 2 voor het derde item).
 Log de naam van het laatste kattenras.
