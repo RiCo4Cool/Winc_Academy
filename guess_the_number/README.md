@@ -6,7 +6,7 @@ Je gaat je eerste eigen project(je) maken. Je gaat een spel maken in JavaScript!
 
 ---
 
-de computer neemt een (semi)willekeurig nummer. De gebruiker probeert het nummer te raden.
+> _de computer neemt een (semi)willekeurig nummer. De gebruiker probeert het nummer te raden._
 
 ---
 
