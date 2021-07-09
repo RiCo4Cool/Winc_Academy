@@ -27,10 +27,11 @@ Om meteen goed te beginnen vragen we je om eerst een lege map aan te maken op je
 
 ## Deel 2: Maak je eerste html pagina!
 
-Open je editor (Visual Studio Code) en maak je eerste HTML pagina.
-Noem het bestand index.html (als je dat niet had gedaan, dan kun je het bestand nu hernoemen. We vertellen je later waarom)
-Gebruik een standaard template voor je HTML pagina. Kopieer en plak het volgende stuk:
+1. Open je editor (Visual Studio Code) en maak je eerste HTML pagina.
+2. Noem het bestand index.html (als je dat niet had gedaan, dan kun je het bestand nu hernoemen. We vertellen je later waarom)
+3. Gebruik een standaard template voor je HTML pagina. Kopieer en plak het volgende stuk:
 
+```
 <!DOCTYPE html>
 <html>
     <head>
@@ -41,11 +42,13 @@ Gebruik een standaard template voor je HTML pagina. Kopieer en plak het volgende
        <!-- hier zet je de code in de body tags-->
     </body>
 </html>
-Zoals je in de video's hebt kunnen zien, is er verschil tussen de<head> en de <body> van je pagina. Je kunt allerlei verschillende stukjes informatie kwijt in de <head> en in de <body>. Het allerbelangrijkste om te onthouden:
+```
 
-In de <head>staat informatie _over_ je pagina. In de <body> staat de daadwerkelijke pagina (hetgeen op je scherm verschijnt).
+4. Zoals je in de video's hebt kunnen zien, is er verschil tussen de `<head>` en de `<body>` van je pagina. Je kunt allerlei verschillende stukjes informatie kwijt in de `<head>` en in de `<body>`. Het allerbelangrijkste om te onthouden:
 
-Er zijn verschillende HTML elementen waarmee je de structuur van je pagina aan kan geven. Bestudeer de volgende resource voor meer informatie over de verschillende elementen: https://www.w3schools.com/html/html_elements.asp
+In de `<head>` staat informatie _\*over\*_ je pagina. In de `<body>` staat de daadwerkelijke pagina (hetgeen op je scherm verschijnt).
+
+5. Er zijn verschillende HTML elementen waarmee je de structuur van je pagina aan kan geven. Bestudeer de volgende resource voor meer informatie over de verschillende elementen: https://www.w3schools.com/html/html_elements.asp
 
 gebruik een <h1>
 gebruik een <h2>
