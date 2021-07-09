@@ -14,7 +14,7 @@ Aan deze minimale eisen moet jouw project voldoen:
 
 1. Als gebruiker wil ik op een hamburger-icoon kunnen klikken dat uitklapt als ik er op klik. - Gebruik een `ul` en `li` voor het menu. - Focus je vooral op de JavaScript (dus weinig tijd aan de CSS) - Het volgende icoon ga je nodig hebben voor je menu:
 
-![alt Hamburger-icoon](hamburger.png =0.5)
+![alt Hamburger-icoon](hamburger.png =50%x)
 
 Als gebruiker wil ik in het uitgeklapte menu een keuze hebben aan kleuren (uitgeschreven in tekst). Elk item in het menu is één kleur.
 
