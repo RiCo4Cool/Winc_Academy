@@ -4,11 +4,7 @@ Je gaat je eerste eigen project(je) maken. Je gaat een spel maken in JavaScript!
 
 "Guess the number" - game, gaat als volgt:
 
----
-
-> _de computer neemt een (semi)willekeurig nummer. De gebruiker probeert het nummer te raden._
-
----
+> _<span style="color:blue">de computer neemt een (semi)willekeurig nummer. De gebruiker probeert het nummer te raden.</span>_
 
 Lees de requirements eerst rustig helemaal door. Schrijf voor jezelf op welke functies je denkt nodig te hebben. Oftewel: welke taken moet je programma uitvoeren om de game te spelen?
 
