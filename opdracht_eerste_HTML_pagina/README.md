@@ -14,17 +14,19 @@ Heb je deze opdracht in een eerdere opleiding al gedaan? Je mag dan gewoon je ou
 
 ---
 
-Deel 1: Organisatie van mappen op je computer
+## Deel 1: Organisatie van mappen op je computer
+
 Om meteen goed te beginnen vragen we je om eerst een lege map aan te maken op je computer.
 
-Maak een nieuwe lege map op je computer, op een plek waar je hem weer terug kan vinden. Genaamd: Winc_Academy.
-Ga naar je editor VSCode en klik file > open... > selecteer Winc_Academy
-Je ziet in je VSCode de naam van de map verschijnen, waar je tijdens deze cursus in gaat werken
-Maak een nieuwe map voor deze opdracht: klik op rechtermuisknop > new folder of het map icoontje in VSCode.
-Geef de map een gepaste naam zodat je weet bij welke opdracht deze hoort, bijvoorbeeld opdracht_eerste_HTML_pagina. Gebruik geen spaties. (note: dit is enkel een referentie voor jezelf; er is dus geen “beste” manier om dit te doen).
-In deze nieuwe map maak je straks nieuwe file. Dit kan HTML zijn, maar ook andere soorten files. De makkelijkste manier is in de menubalk: file > new
-file , rechtermuisknop > new file of rechtermuisknop > new file.
-Deel 2: Maak je eerste html pagina!
+1. Maak een nieuwe lege map op je computer, op een plek waar je hem weer terug kan vinden. Genaamd: **Winc_Academy**.
+2. Ga naar je editor VSCode en klik file > open... > selecteer **Winc_Academy**
+3. Je ziet in je VSCode de naam van de map verschijnen, waar je tijdens deze cursus in gaat werken
+4. Maak een nieuwe map voor deze opdracht: **klik op** `rechtermuisknop > new folder` **of het map icoontje in VSCode**.
+5. Geef de map een gepaste naam zodat je weet bij welke opdracht deze hoort, bijvoorbeeld opdracht_eerste_HTML_pagina. Gebruik geen spaties. (note: dit is enkel een referentie voor jezelf; er is dus geen “beste” manier om dit te doen).
+6. In deze nieuwe map maak je straks nieuwe file. Dit kan HTML zijn, maar ook andere soorten files. De makkelijkste manier is in de menubalk: `file > new file` , `rechtermuisknop > new file` of `rechtermuisknop > new file`.
+
+## Deel 2: Maak je eerste html pagina!
+
 Open je editor (Visual Studio Code) en maak je eerste HTML pagina.
 Noem het bestand index.html (als je dat niet had gedaan, dan kun je het bestand nu hernoemen. We vertellen je later waarom)
 Gebruik een standaard template voor je HTML pagina. Kopieer en plak het volgende stuk:
