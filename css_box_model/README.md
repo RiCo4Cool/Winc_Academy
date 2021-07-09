@@ -11,14 +11,16 @@ Je gaat de eigenschappen van het Box Model toepassen op de elementen op jouw web
 
 ## Deel 2:
 
-1. geef je semantic elements (<main>, <header> ) allemaal een mooie gekleurde border
-   gebruik margin en zorg dat de elementen in je pagina op een mooie afstand van elkaar staan, niet te dichtbij, maar ook niet te ver.
-   zorg dat de padding van je teksten goed is.
-   Gebruik een andere padding voor top & bottom en left & right. Gebruik eerst de uitgebreide CSS notatie en daarna de "shorthand" notatie. e.g: padding: top, right, bottom left.
-   Centreer een element dmv margin: 0 auto. Gebruik je naslagwerk en Google
-   Het gecentreerde element heeft naast margin nog een andere property nodig om zichzelf te kunnen centreren. Weet jij welke? \*zie antwoord onderaan
-   Deel 3: inline vs blocklevel elementen
-   Sommige HTML elementen hebben "van nature" al vaste waardes die met het Box-model te maken hebben. Zo heeft een h1 al een vaste margins. Op deze manier is een HTML element ook altijd "van nature" een blok-level element of een inline-element.
+1. geef je semantic elements (&lt;main&gt;, &lt;header&gt; ) allemaal een mooie gekleurde border
+2. gebruik `margin` en zorg dat de elementen in je pagina op een mooie afstand van elkaar staan, niet te dichtbij, maar ook niet te ver.
+3. zorg dat de `padding` van je teksten goed is.
+4. Gebruik een andere padding voor top & bottom en left & right. Gebruik eerst de uitgebreide CSS notatie en daarna de "shorthand" notatie. e.g: padding: top, right, bottom left.
+5. Centreer een element dmv `margin: 0 auto`. Gebruik je naslagwerk en Google
+   1. Het gecentreerde element heeft naast margin nog een andere property nodig om zichzelf te kunnen centreren. Weet jij welke? \*zie antwoord onderaan
+
+## Deel 3: inline vs blocklevel elementen
+
+Sommige HTML elementen hebben "van nature" al vaste waardes die met het Box-model te maken hebben. Zo heeft een h1 al een vaste margins. Op deze manier is een HTML element ook altijd "van nature" een blok-level element of een inline-element.
 
 block-level element: ik gedraag mij als een pagina-breed blok. inline element: ik gedraag mij als een onderdeel van een paragraafje en neem alleen zoveel ruimte als ik nodig hebt voor mijn breedte.
 
