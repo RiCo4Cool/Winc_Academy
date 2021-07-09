@@ -17,29 +17,18 @@ Je gaat voor het eerst werken met objecten en arrays. In deze opdracht run je je
 
 ## Deel 2 Arrays:
 
-Maak een nieuwe variabele met een lege array [].
+1. Maak een nieuwe variabele met een lege array `[]`.
+2. Vul deze array met minstens 3 verschillende kleuren, in de vorm van `strings` Bijvoorbeeld: "groen", "blauw", "rood".
+3. Log je nieuwe array naar de console.
+4. Log de lengte van je array naar de console. [Gebruik array.length](https://developer.mozilla.org/docs/Web/JavaScript/Reference/Global_Objects/Array/length)
+5. Log het **eerste** element van je array naar de console, dus in ons voorbeeld: "groen".
+6. Log het **laatste** element van je array naar de console, dus in ons voorbeeld: "rood". Ga ervan uit dat je niet weet hoeveel elementen er in de array gaan zitten. `array[3]` gaat dus niet de juist oplossing zijn als je straks 5 elementen in de array hebt.
+7. Voeg een 4de element toe aan je array met de push method. [array.push()](https://developer.mozilla.org/nl/docs/Web/JavaScript/Reference/Global_Objects/Array/push) Resultaat: ['groen, 'blauw, 'rood', 'geel']
+8. Voeg een cijfer toe aan je array met de push methode Resultaat: ['groen, 'blauw, 'rood', 'geel', 5]
+9. Voeg een object toe aan je array met de push methode. Het object ziet er zo uit: {greeting: "hi ik ben een object"} Resultaat: ['groen, 'blauw, 'rood', 'geel', 5, {greeting: "Hi ik ben een object"} ]
+10. Log **alleen** de begroeting van het object (het laatste element), naar de console.
 
-Vul deze array met minstens 3 verschillende kleuren, in de vorm van strings Bijvoorbeeld: "groen", "blauw", "rood".
-
-Log je nieuwe array naar de console.
-
-Log de lengte van je array naar de console.
-
-Gebruik array.length
-
-Log het eerste element van je array naar de console, dus in ons voorbeeld: "groen".
-
-Log het laatste element van je array naar de console, dus in ons voorbeeld: "rood". Ga ervan uit dat je niet weet hoeveel elementen er in de array gaan zitten. array[3] gaat dus niet de juist oplossing zijn als je straks 5 elementen in de array hebt.
-
-Voeg een 4de element toe aan je array met de push method. array.push() Resultaat: ['groen, 'blauw, 'rood', 'geel']
-
-Voeg een cijfer toe aan je array met de push methode Resultaat: ['groen, 'blauw, 'rood', 'geel', 5]
-
-Voeg een object toe aan je array met de push methode. Het object ziet er zo uit: {greeting: "hi ik ben een object"} Resultaat: ['groen, 'blauw, 'rood', 'geel', 5, {greeting: "Hi ik ben een object"} ]
-
-Log alleen de begroeting van het object (het laatste element), naar de console.
-
-Deel 3: Bekijk een "real-life" object
+## Deel 3: Bekijk een "real-life" object
 
 Objecten in JavaScript kunnen worden vergeleken met objecten in het echte leven. Daarom gaan we nu een opdracht doen met een "echt" object. We hebben 3 katten-soorten voor je in een array gestopt. Hieronder vind je een array met 3 kattenrassen en hun specificaties.
 
