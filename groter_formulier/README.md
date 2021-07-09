@@ -27,4 +27,4 @@ Maak een formulier met de onderstaande inputvelden. En deploy je formulier via N
 Zorg dat de gegevens op de juiste manier bij Netlify terechtkomen.
 
 - deploy je website via Netlify
-- Check of alle gegevens op de juiste manier ontvangen worden en maak zo nodig aanpassingen.
+- check of alle gegevens op de juiste manier ontvangen worden en maak zo nodig aanpassingen.
