@@ -106,6 +106,7 @@ Gebruik bij elke stap een console.log("omschrijving van het object", hierjouwopl
    _Favo voedsel van kat 3: meaty things_
 
 **Naslagwerk:**
+
 [Werken met objecten](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Guide/working_with_objects)
 
 [Array](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Array)
