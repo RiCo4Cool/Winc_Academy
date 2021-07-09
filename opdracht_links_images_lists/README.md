@@ -19,6 +19,8 @@ Voeg extra HTML elementen aan je `index.html` file toe:
 
 Voeg een link toe naar Google.
 
-Voorbeeld resultaat pagina 1:
+**Voorbeeld resultaat pagina 1:**
+![Pagina 1](pagina1.png)
 
-Voorbeeld resultaat pagina 2:
+**Voorbeeld resultaat pagina 2:**
+![Pagina 2](pagina2.png)
