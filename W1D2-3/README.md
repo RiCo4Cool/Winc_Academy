@@ -31,6 +31,6 @@ Je weet nu hoe je een JavaScript file kunt runnen op je computer. We gaan nu aan
 5. Gebruik een **blok comment** om de 2 voorgaande rekensommen in 1 comment te zetten. Op deze manier zet je deze regels code "uit".
 6. Run je code opnieuw met node. Zie je de uitkomst van de som nu nog steeds in de console? Waarom wel/niet?
 
-# Let op: runt JavaScript in Node? Dan is je terminal de console.
+# // Let op: runt JavaScript in Node? Dan is je terminal de console.
 
-# Runt JavaScript in je browser? Dan vind je de console in je developer tools.
+# // Runt JavaScript in je browser? Dan vind je de console in je developer tools.
