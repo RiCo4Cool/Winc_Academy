@@ -36,19 +36,19 @@ Objecten in JavaScript kunnen worden vergeleken met objecten in het echte leven.
 
 ```
 const catBreeds = [{
-name: "Abyssinian",
-description: "The Abyssinian is easy to care for, and a joy to have in your home. They’re affectionate cats and love both people and other animals.",
-dog*friendly: 4,
-energy_level: 5,
-life_span: "14 - 15",
-origin: "Egypt",
-temperament: ["Active", "Energetic", "Independent", "Intelligent", "Gentle"],
-wikipedia_url: "https://en.wikipedia.org/wiki/Abyssinian*(cat)",
-food: {
-favourite_food: "fish",
-medium_liked_food: "dried fruits",
-disliked_food: "walnuts"
-}
+    name: "Abyssinian",
+    description: "The Abyssinian is easy to care for, and a joy to have in your home. They’re affectionate cats and love both people and other animals.",
+    dog*friendly: 4,
+    energy_level: 5,
+    life_span: "14 - 15",
+    origin: "Egypt",
+    temperament: ["Active", "Energetic", "Independent", "Intelligent", "Gentle"],
+    wikipedia_url: "https://en.wikipedia.org/wiki/Abyssinian*(cat)",
+    food: {
+        favourite_food: "fish",
+        medium_liked_food: "dried fruits",
+        disliked_food: "walnuts"
+    }
 },
 {
 name: "Aegean",
