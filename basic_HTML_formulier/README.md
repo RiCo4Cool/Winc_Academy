@@ -3,7 +3,7 @@ Open je editor (Visual Studio Code) en maak je eerste HTML pagina.
 Noem het bestand index.html (als je dat niet had gedaan, dan kun je het bestand nu hernoemen. We vertellen je later waarom)
 Gebruik een standaard template voor je HTML pagina. Kopieer en plak het volgende stuk:
 
-<code>
+```
 <!DOCTYPE html>
 <html>
     <head>
@@ -14,7 +14,7 @@ Gebruik een standaard template voor je HTML pagina. Kopieer en plak het volgende
        <!-- hier zet je de code in de body tags-->
     </body>
 </html>
-</code>
+```
 
 Zoals je in de video's hebt kunnen zien, is er verschil tussen de<head> en de <body> van je pagina. Je kunt allerlei verschillende stukjes informatie kwijt in de <head> en in de <body>. Het allerbelangrijkste om te onthouden:
 
