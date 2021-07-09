@@ -4,16 +4,17 @@ Je gaat je eerste eigen project(je) maken. Je gaat een spel maken in JavaScript!
 
 "Guess the number" - game, gaat als volgt:
 
-> _<span style="color:blue">de computer neemt een (semi)willekeurig nummer. De gebruiker probeert het nummer te raden.</span>_
+> _de computer neemt een (semi)willekeurig nummer. De gebruiker probeert het nummer te raden._
 
 Lees de requirements eerst rustig helemaal door. Schrijf voor jezelf op welke functies je denkt nodig te hebben. Oftewel: welke taken moet je programma uitvoeren om de game te spelen?
 
 Dit spel kun je op 2 manieren maken: kies de manier die voor jou logisch is.
 
-In de browser. Als je al weet hoe je JavaScript aan een website toevoegt doe deze opdracht dan in de browser. Gebruik prompt om input te vragen van de gebruiker en alert om de gebruiker iets te melden.
-In REPL.it. Als je vooral ervaring hebt met REPL.it kies dit dan. Gebruik prompt om input te vragen van de gebruiker en console.log om de gebruiker iets te melden.
+1. In de browser. Als je al weet hoe je JavaScript aan een website toevoegt doe deze opdracht dan in de browser. Gebruik [prompt](https://www.w3schools.com/jsref/met_win_prompt.asp) om input te vragen van de gebruiker en alert om de gebruiker iets te melden.
+2. In REPL.it. Als je vooral ervaring hebt met REPL.it kies dit dan. Gebruik prompt om input te vragen van de gebruiker en console.log om de gebruiker iets te melden.
 
-Requirements
+# Requirements
+
 Aan deze eisen moet jouw project voldoen:
 
 Als gebruiker wil ik een initieel bericht zien in die de gebruiker begroet en vraagt om zijn of haar naam. "Welkom! Wat is je naam?"
