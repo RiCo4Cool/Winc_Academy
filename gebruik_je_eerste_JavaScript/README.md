@@ -17,11 +17,8 @@ In de volgende opdracht ga je de eerste JavaScript gebruiken in je HTML pagina m
    - Twee **strings** bij elkaar optellen "4" + "4", kan dat?
 8. Maak nog wat simpele sommetjes met de volgende operators en log\* de uitkomst naar de console. Gebruik: - Addition `+` - Subtraction `-` - Multiplication `*` - Division `/` - Modulus `%`
    **Naslagwerk vind je [hier](https://www.w3schools.com/JSREF/jsref_operators.asp)**
-
-Maak een variabele met je leeftijd in cijfers (bijvoorbeeld 48), log\* het type variabele naar de console met typeof (typeof operator)
-
-Verander nu het type van deze variable door je leeftijd ("48") uit te schrijven in "text", log het type naar de console met typeof .
-
-Gebruik je externe script.js file in je HTML pagina. Maak een nieuwe script.js file en verplaats al je JavaScript tot nu toe naar deze file.
+9. Maak een variabele met je leeftijd in cijfers (bijvoorbeeld 48), log\* **het type** variabele naar de console met `typeof` (typeof operator)
+10. Verander nu het type van deze variable door je leeftijd ("48") uit te schrijven in "text", log het type naar de console met `typeof` .
+11. Gebruik je externe **script.js** file in je HTML pagina. Maak een nieuwe script.js file en verplaats al je JavaScript tot nu toe naar deze file.
 
 \*wanneer we vragen om een uitkomst te "loggen" —> gebruik console.log(jouw uitkomst)
