@@ -50,10 +50,10 @@ In de `<head>` staat informatie _\*over\*_ je pagina. In de `<body>` staat de da
 
 5. Er zijn verschillende HTML elementen waarmee je de structuur van je pagina aan kan geven. Bestudeer de volgende resource voor meer informatie over de verschillende elementen: [https://www.w3schools.com/html/html_elements.asp](https://www.w3schools.com/html/html_elements.asp)
 
-- gebruik een &lt;h1&gt;
-- gebruik een &lt;h2&gt;
-- gebruik &lt;p&gt;
-- gebruik een &lt;hr&gt;
+   - gebruik een &lt;h1&gt;
+   - gebruik een &lt;h2&gt;
+   - gebruik &lt;p&gt;
+   - gebruik een &lt;hr&gt;
 
 6. Open je index.html bestand in je Web Browser (Google Chrome).
    [Kom je er niet uit? Bekijk onze FAQ en filter op HTML](https://faq.wincacademy.nl/)
