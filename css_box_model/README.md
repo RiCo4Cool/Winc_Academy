@@ -22,9 +22,10 @@ Je gaat de eigenschappen van het Box Model toepassen op de elementen op jouw web
 
 Sommige HTML elementen hebben "van nature" al vaste waardes die met het Box-model te maken hebben. Zo heeft een h1 al een vaste margins. Op deze manier is een HTML element ook altijd "van nature" een blok-level element of een inline-element.
 
-block-level element: ik gedraag mij als een pagina-breed blok. inline element: ik gedraag mij als een onderdeel van een paragraafje en neem alleen zoveel ruimte als ik nodig hebt voor mijn breedte.
+**block-level element**: ik gedraag mij als een pagina-breed blok. **inline element**: ik gedraag mij als een onderdeel van een paragraafje en neem alleen zoveel ruimte als ik nodig hebt voor mijn breedte.
 
-Een plaatje te verduidelijking:
+- Een plaatje te verduidelijking:
+  ![alt elements](image.png "Elements")
 
 To do:
 
