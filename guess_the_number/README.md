@@ -32,10 +32,15 @@ Aan deze eisen moet jouw project voldoen:
 - Een gebruiker krijgt maximaal 5 pogingen om het getal te raden.
   - Als gebruiker wil ik na elke poging een nieuw bericht zien die mij verteld hoeveel pogingen ik nog over heb.
   - Als gebruiker wil ik een bericht zien als ik helemaal geen pogingen meer over heb. Het spel is nu af.
-- Zelf de range bepalen waaruit de gebruiker gaat raden. - Als gebruiker wil ik bij de start van het spel gevraagd worden wat het **kleinste** en het **grootste** nummer is dat ik wil raden. - Als gebruiker speel ik nu het spel met de nummer-range die ik heb aangegeven bij de start van het spel.
-  Design
-  Er is geen design beschikbaar voor deze opdracht.
+- Zelf de range bepalen waaruit de gebruiker gaat raden.
+  - Als gebruiker wil ik bij de start van het spel gevraagd worden wat het **kleinste** en het **grootste** nummer is dat ik wil raden.
+  - Als gebruiker speel ik nu het spel met de nummer-range die ik heb aangegeven bij de start van het spel.
 
-Tips & Tricks
-Begin met het maken van een lijst met todo's voor jezelf. Welke functionaliteiten ga je maken? Staan die in een losse functie? Welke stappen ga je nemen? Schrijf ze uit.
-Maak je je opdracht in de browser? Gebruik de prompt() en alert() functies van JavaScript. Bedenk je bij elk bericht, wil ik hier iets aan de gebruiker vertellen of wil ik hier iets van de gebruiker ontvangen? Input van de gebruiker in de browser
+# Design
+
+Er is geen design beschikbaar voor deze opdracht.
+
+# Tips & Tricks
+
+- Begin met het maken van een lijst met todo's voor jezelf. Welke functionaliteiten ga je maken? Staan die in een losse functie? Welke stappen ga je nemen? Schrijf ze uit.
+- Maak je je opdracht in de browser? Gebruik de prompt() en alert() functies van JavaScript. Bedenk je bij elk bericht, wil ik hier iets aan de gebruiker vertellen of wil ik hier iets van de gebruiker ontvangen? [Input van de gebruiker in de browser](https://www.notion.so/Input-van-de-gebruiker-in-de-browser-bac5991963294954a068ff5626011f54)
