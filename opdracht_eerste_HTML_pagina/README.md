@@ -48,12 +48,13 @@ Om meteen goed te beginnen vragen we je om eerst een lege map aan te maken op je
 
 In de `<head>` staat informatie _\*over\*_ je pagina. In de `<body>` staat de daadwerkelijke pagina (hetgeen op je scherm verschijnt).
 
-5. Er zijn verschillende HTML elementen waarmee je de structuur van je pagina aan kan geven. Bestudeer de volgende resource voor meer informatie over de verschillende elementen: https://www.w3schools.com/html/html_elements.asp
+5. Er zijn verschillende HTML elementen waarmee je de structuur van je pagina aan kan geven. Bestudeer de volgende resource voor meer informatie over de verschillende elementen: [https://www.w3schools.com/html/html_elements.asp](https://www.w3schools.com/html/html_elements.asp)
 
-gebruik een <h1>
-gebruik een <h2>
-gebruik <p>
-gebruik een <hr>
-Open je index.html bestand in je Web Browser (Google Chrome).
-Kom je er niet uit? Bekijk onze FAQ en filter op HTML
-Schrijf een toepasselijke titel van je pagina in de <title> tags die in je <head> van je pagina staan.
+- gebruik een &lt;h1&gt;
+- gebruik een &lt;h2&gt;
+- gebruik &lt;p&gt;
+- gebruik een &lt;hr&gt;
+
+6. Open je index.html bestand in je Web Browser (Google Chrome).
+   Kom je er niet uit? Bekijk onze FAQ en filter op HTML
+   Schrijf een toepasselijke titel van je pagina in de <title> tags die in je <head> van je pagina staan.
