@@ -16,7 +16,7 @@ In de volgende sectie gaan we oefenen met verschillende soorten selectors.
 
 ```
 body {
-color: red;
+    color: red;
 }
 ```
 
@@ -26,16 +26,22 @@ Let op! CSS is erg gevoelig voor dubbele punten, punt komma's en haakjes. Gebrui
   **element selector** gebruikt. Je kunt elementen ook selecteren op basis van een `class`. Geef **2 of meer elementen** op je pagina **dezelfde class** genaamd "black-border". Bijvoorbeeld een `<h1>` element en een `<p>` element. Selecteer deze class vervolgens in je CSS met de **class selector** (dat doe je met een .**punt**):
   `.black-border`. En geef het de property `border` met de waarde `5px solid black`.
 
+```
 .black-border {
-border: 5px solid black;
+    border: 5px solid black;
 }
-Verwacht resultaat: de 2 elementen met de class hebben een zwarte border.
+```
 
-ID selector Geef nu 1 element naar keuze op je pagina een ID genaamd: green-background Selecteer deze ID in je CSS sheet dmv van een id selector (dat doe je met een #hashtag). Geef deze CSS selector vervolgens de propertybackground-color met de waarde green
+**Verwacht resultaat**: de **2 elementen** met de class hebben een zwarte border.
 
+- **ID selector** Geef nu **1 element** naar keuze op je pagina een ID genaamd: `green-background` Selecteer deze ID in je CSS sheet dmv van een id selector (dat doe je met een #hashtag). Geef deze CSS selector vervolgens de property `background-color` met de waarde `green`
+
+```
 #green-background {
-background-color: green;
+    background-color: green;
 }
+```
+
 Verwacht resultaat: 1 element met de ID heeft een groene achtergrond.
 
 Let op, beginners-regel: gebruik altijd een class-selector, tenzij je een goede reden hebt om een ID-selector te gebruiken. Deze goede redenen ga je pas tegenkomen wanneer je gaat werken met JavaScript.
