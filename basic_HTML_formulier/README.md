@@ -17,8 +17,7 @@ Gebruik een standaard template voor je HTML pagina. Kopieer en plak het volgende
 ```
 
 <p>Zoals je in de video's hebt kunnen zien, is er verschil tussen de
-> <head>
- en de `<body>` van je pagina. Je kunt allerlei verschillende stukjes informatie kwijt in de `<head>` en in de `<body>`. Het allerbelangrijkste om te onthouden:</p>
+<code>`<head>`</code> en de `<body>` van je pagina. Je kunt allerlei verschillende stukjes informatie kwijt in de `<head>` en in de `<body>`. Het allerbelangrijkste om te onthouden:</p>
 
 <p>In de <head>staat informatie _over_ je pagina. In de <body> staat de daadwerkelijke pagina (hetgeen op je scherm verschijnt).</p>
 
