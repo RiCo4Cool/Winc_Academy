@@ -1,3 +1,8 @@
+const redButton = document.querySelector("#red");
+const greenButton = document.querySelector("#green");
+const yellowButton = document.querySelector("#yellow");
+const blueButton = document.querySelector("#blue");
+
 document.querySelector("#hamburger").addEventListener("click", function () {
   document.getElementById("menu").style.display = "block";
 });
@@ -8,25 +13,25 @@ document.querySelector("#home").addEventListener("click", function () {
   document.getElementById("menu").style.display = "none";
 });
 
-document.querySelector("#red").addEventListener("click", function () {
+redButton.addEventListener("click", function () {
   document.body.style.backgroundColor = "red";
   document.getElementById("menu").style.display = "none";
   document.getElementById("color").textContent = "Rood";
 });
 
-document.querySelector("#green").addEventListener("click", function () {
+greenButton.addEventListener("click", function () {
   document.body.style.backgroundColor = "green";
   document.getElementById("menu").style.display = "none";
   document.getElementById("color").textContent = "Groen";
 });
 
-document.querySelector("#yellow").addEventListener("click", function () {
+yellowButton.addEventListener("click", function () {
   document.body.style.backgroundColor = "yellow";
   document.getElementById("menu").style.display = "none";
   document.getElementById("color").textContent = "Geel";
 });
 
-document.querySelector("#blue").addEventListener("click", function () {
+blueButton.addEventListener("click", function () {
   document.body.style.backgroundColor = "lightblue";
   document.getElementById("menu").style.display = "none";
   document.getElementById("color").textContent = "Blauw";
