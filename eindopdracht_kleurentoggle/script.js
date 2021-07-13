@@ -1,38 +1,26 @@
-const redButton = document.querySelector("#red");
-const greenButton = document.querySelector("#green");
-const yellowButton = document.querySelector("#yellow");
-const blueButton = document.querySelector("#blue");
+const hamburger = document.querySelector("#hamburger");
+const homeButton = document.querySelector("#home");
 
-document.querySelector("#hamburger").addEventListener("click", function () {
+hamburger.addEventListener("click", () => {
   document.getElementById("menu").style.display = "block";
 });
 
-document.querySelector("#home").addEventListener("click", function () {
+homeButton.addEventListener("click", () => {
   document.body.style.backgroundColor = "transparent";
   document.getElementById("color").textContent = "";
   document.getElementById("menu").style.display = "none";
 });
 
-redButton.addEventListener("click", function () {
-  document.body.style.backgroundColor = "red";
-  document.getElementById("menu").style.display = "none";
-  document.getElementById("color").textContent = "Rood";
-});
+function chooseColor(color) {
+  color.addEventListener("click", (e) => {
+    document.body.style.backgroundColor = e.target.id;
+    document.getElementById("menu").style.display = "none";
+    document.getElementById("color").textContent =
+      e.target.id.charAt(0).toUpperCase() + e.target.id.slice(1);
+  });
+}
 
-greenButton.addEventListener("click", function () {
-  document.body.style.backgroundColor = "green";
-  document.getElementById("menu").style.display = "none";
-  document.getElementById("color").textContent = "Groen";
-});
-
-yellowButton.addEventListener("click", function () {
-  document.body.style.backgroundColor = "yellow";
-  document.getElementById("menu").style.display = "none";
-  document.getElementById("color").textContent = "Geel";
-});
-
-blueButton.addEventListener("click", function () {
-  document.body.style.backgroundColor = "lightblue";
-  document.getElementById("menu").style.display = "none";
-  document.getElementById("color").textContent = "Blauw";
-});
+chooseColor(red);
+chooseColor(green);
+chooseColor(yellow);
+chooseColor(lightblue);
